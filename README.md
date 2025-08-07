@@ -13,5 +13,6 @@ Data: Sample customer, order, product, and region data
 
 Pipelines: ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) methodologies
 
-Business Value
+#Business Value
+
 This architecture provides a scalable and robust framework for data governance. By progressively refining raw data into a clean, curated format, it ensures data quality and consistency for downstream business intelligence and machine learning applications. The use of a Medallion structure enables auditability and simplifies data recovery.
