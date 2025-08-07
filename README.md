@@ -5,7 +5,7 @@ This project demonstrates the design and implementation of a Medallion-oriented 
 
 Architecture: Medallion Architecture (Bronze, Silver, Gold layers)
 
-Platform: Azure Data Lake Storage, Azure Databricks, Azure Data Factory (ADF)
+Platform: Azure Data Lake Storage, Azure Databricks, Azure Data Factory (ADF), Unity Catalog
 
 Processing: PySpark, DataFrames, Spark SQL, ADF
 
